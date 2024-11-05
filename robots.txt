@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owumiifo.github.io/EXB/sitemap_index.txt
+Sitemap: https://owumiifo.github.io/RSO/sitemap_index.txt
+Sitemap: https://owumiifo.github.io/lBU/sitemap_index.txt
+Sitemap: https://owumiifo.github.io/sMw/sitemap_index.txt
